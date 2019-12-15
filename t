@@ -2,7 +2,7 @@
 <canal>
 <name> [COLOR indigo] ||| [/ COLOR] [COLOR deeppink] ||| [/ COLOR] [COLOR em perigo] ||| [/ COLOR] [COLOR em branco] LANÇAMENTOS [/ COLOR] [COLOR em perigo] | || [/ COLOR] [COLOR deeppink] ||| [/ COLOR] [COLOR indigo] ||| [/ COLOR] </name>
 <thumbnail> https://images7.alphacoders.com/301/301150.jpg </thumbnail>
-<externallink> https://pastebin.com/raw/Rp99aCS2 </externallink>
+<externallink>https://raw.githubusercontent.com/RhainFernandes/FILMES-LAN-AMENTOS/master/FILMES%20LAN%C3%87AMENTOS</externallink>
 <fanart> https://ia601405.us.archive.org/17/items/fanart_20191211/fanart.jpg </fanart>
 <info>
  
